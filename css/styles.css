@@ -135,6 +135,7 @@ header {
 
 .contact-icon {
   fill: currentColor;
+  margin-right: 10px;
 }
 
 .header-nav-link:hover,
